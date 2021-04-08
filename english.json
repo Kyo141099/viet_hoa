@@ -898,15 +898,15 @@
 		"type"								: "Type",
 		"date"								: "Launched on",
 		"is_enabled"						: "Status",
-		"is_enabled_tooltip"				: "Change status",
+		"is_enabled_tooltip"				: "Thay đổi trạng thái",
 
-		"no_data"							: "No links created yet..",
+		"no_data"							: "Chưa có liên kết nào được tạo..",
 
 		"filters": {
-			"project_id"					: "Project",
-			"type"							: "Type",
-			"type_biolink"					: "Biolink pages",
-			"type_link"						: "Shortened URLs",
+			"project_id"					: "Dự án",
+			"type"							: "Thể loại",
+			"type_biolink"					: "Trang Biolink",
+			"type_link"						: "Rút gọn URLs",
 			"search_by_url"					: "Short URL",
 			"order_by_url"					: "Short URL",
 			"order_by_clicks"				: "Clicks"
@@ -914,16 +914,16 @@
 	},
 
 	"projects": {
-		"title"								: "Projects",
-		"menu"								: "Projects",
-		"breadcrumb"						: "Projects",
-		"header"							: "Projects",
-		"subheader"							: "The easiest way to categorize and sort your links.",
-		"create"							: "Create project",
+		"title"								: "Dự án",
+		"menu"								: "Dự án",
+		"breadcrumb"						: "Dự án",
+		"header"							: "Dự án",
+		"subheader"							: "Cách dễ nhất để phân loại và sắp xếp các liên kết của bạn.",
+		"create"							: "Tạo dự án",
 
-		"name"								: "Name",
+		"name"								: "Tên dự án",
 
-		"no_data"							: "No existing projects..",
+		"no_data"							: "Dự án không tồn tại..",
 
 		"filters": {
 			"search_by_name"				: "Name",
@@ -931,7 +931,7 @@
 		},
 
 		"error_message": {
-			"projects_limit"				: "You have exceeded the limit of projects on your plan."
+			"projects_limit"				: "Bạn đã vượt quá giới hạn dự án trong kế hoạch của mình."
 		}
 	},
 
@@ -942,72 +942,72 @@
 
 		"header": {
 			"header"						: "%s",
-			"subheader"						: "Your link is %s",
-			"links"							: "Back to Links List",
+			"subheader"						: "Những liên kết của bạn là %s",
+			"links"							: "Trở lại danh sách liên kết",
 
-			"settings_tab"					: "Settings",
+			"settings_tab"					: "Cài đặt",
 			"links_tab"						: "Links",
-			"biolinks_settings"				: "Back to BioLink"
+			"biolinks_settings"				: "Trở lại BioLink"
 		},
 
 		"settings": {
-			"header"						: "Settings",
-			"link"							: "Settings",
-			"breadcrumb"					: "Settings",
+			"header"						: "Cài đặt",
+			"link"							: "Cài đặt",
+			"breadcrumb"					: "Cài đặt",
 
-			"location_url"					: "Long URL",
+			"location_url"					: "Địa chỉ truy cập đầy đủ",
 			"location_url_placeholder"		: "https://domain.com/demo/long-url-demo",
-			"url"							: "Short URL",
-			"url_placeholder"				: "your-custom-alias",
-			"url_help"						: "Leave empty for a random generated one.",
-			"project_id"					: "Project",
-			"project_id_null"				: "None",
-			"schedule"						: "Schedule",
-			"schedule_help"					: "Set an exact date when the link will work.",
-			"start_date"					: "Start Date",
-			"end_date"						: "End Date",
-			"image"							: "Avatar",
+			"url"							: "Địa chỉ truy cập rút gọn",
+			"url_placeholder"				: "Tùy chỉnh bí danh của bạn",
+			"url_help"						: "Hãy để trống, một đối tượng sẽ được tạo ngẫu nhiên.",
+			"project_id"					: "Tên dự án",
+			"project_id_null"				: "Không có",
+			"schedule"						: "Kế hoạch làm việc",
+			"schedule_help"					: "Chọn một ngày chính xác khi liên kết bắt đầu hoạt động.",
+			"start_date"					: "Ngày bắt đầu",
+			"end_date"						: "Ngày kết thúc",
+			"image"							: "Ảnh đại diện",
 			"image_help"					: "",
-			"image_status"					: "Your image was selected",
-			"image_remove"					: "Remove image",
-			"title"							: "Title",
-			"description"					: "Description",
+			"image_status"					: "Ảnh của bạn đã được chọn",
+			"image_remove"					: "Chọn ảnh khác",
+			"title"							: "Tiêu đề",
+			"description"					: "Mô tả",
             "text_color"                    : "Text Color",
 			"socials_color"					: "Buttons Color",
-			"background_type"				: "Background",
-			"background_type_preset"		: "Preset",
-			"background_type_color"			: "Custom Color",
-			"background_type_gradient"		: "Custom Gradient",
-			"background_type_gradient_color_one": "Color One",
-			"background_type_gradient_color_two": "Color Two",
-			"background_type_image"			: "Custom Image",
-			"display_verified"				: "Display Verified Checkmark",
-			"branding_header"				: "Branding",
-			"display_branding"				: "Display Branding",
+			"background_type"				: "Nền",
+			"background_type_preset"		: "Thiết lập",
+			"background_type_color"			: "Tùy chỉnh màu sắc",
+			"background_type_gradient"		: "Tùy chỉnh phối màu Gradient",
+			"background_type_gradient_color_one": "Màu 1",
+			"background_type_gradient_color_two": "Màu 2",
+			"background_type_image"			: "Tùy chỉnh ảnh",
+			"display_verified"				: "Hiển thị đánh dấu đã xác thực",
+			"branding_header"				: "Thương Hiệu",
+			"display_branding"				: "Hiển thị thương hiệu",
 			"branding": {
-				"name"						: "Branding Name",
-				"name_help"					: "Leave empty to have the default site branding.",
+				"name"						: "Tên thương hiệu",
+				"name_help"					: "Để trống nếu bạn muốn có thương hiệu trang web mặc định",
 				"url"						: "Branding URL"
 			},
 			"analytics_header"				: "Analytics",
 			"google_analytics"				: "Google Analytics ID",
-			"google_analytics_help"			: "Enable tracking with Google Analytics by adding your analytics ID (ex: UA-22222222-33).",
+			"google_analytics_help"			: "Bật theo giỏi Google Analytics bằng cách nhập Analytics ID của bạn (ex: UA-22222222-33).",
 			"facebook_pixel"				: "Facebook Pixel",
-			"facebook_pixel_help"			: "Enable the Facebook Pixel by adding your only the Facebook Pixel ID.",
+			"facebook_pixel_help"			: "Bật Facebook Pixel bằng cách thêm ID Pixel Facebook duy nhất của bạn.",
 			"seo_header"					: "Seo",
-			"seo_block"						: "Block Search Engine Indexing",
-			"seo_block_help"				: "Block your biolink page from being indexed by search engines.",
-			"seo_title"						: "Page title",
-			"seo_title_help"				: "Completely change the page title to a custom one that you are setting here.",
+			"seo_block"						: "Chặn công cụ tìm kiếm",
+			"seo_block_help"				: "Chặn trang Biolink của bạn khỏi các công cụ tìm kiếm.",
+			"seo_title"						: "Tiêu đề trang",
+			"seo_title_help"				: "Thay đổi hoàn toàn tiêu đề trang thành tiêu đề tùy chỉnh mà bạn đang đặt ở đây.",
 			"seo_meta_description"			: "Meta description",
-			"seo_meta_description_help"		: "Set a custom meta description for your biolink page to rank better in search engines.",
+			"seo_meta_description_help"		: "Tùy chỉnh các mô tả để trang Biolink của bạn có xép hạng cao hơn đối với các công cụ tìm kiếm .",
 			"seo_image"						: "OpenGraph Image URL",
-			"seo_image_help"				: "Set a custom OpenGraph/Twitter Image for your biolink page to display a link preview.",
-			"utm_header"					: "UTM Parameters",
+			"seo_image_help"				: "Tùy chỉnh hình ảnh OpenGraph/Twitter cho trang Biolink của bạn dể hiển thị bản xem trước liên kết.",
+			"utm_header"					: "Thông só UTM",
 			"utm_medium"					: "Medium",
-			"utm_campaign"					: "The campaign will be automatically set for each link in particular based on the name of the link.",
+			"utm_campaign"					: "Chiến dịch sẽ được tự động đặt cho từng liên kết cụ thể dựa trên tên của liên kết.",
 			"utm_source"					: "Source",
-			"socials_header"				: "Socials",
+			"socials_header"				: "Xã Hội",
 			"socials": {
 				"email": {
 					"name"					: "Email",
@@ -1016,7 +1016,7 @@
 				},
 
 				"tel": {
-					"name"					: "Telephone",
+					"name"					: "Số điện thoại",
 					"placeholder"			: "+00000000000",
 					"icon"					: "fa fa-phone-square"
 				},
@@ -1093,14 +1093,14 @@
 					"icon"					: "fab fa-pinterest"
 				}
 			},
-			"fonts_header"					: "Fonts",
-			"font"							: "Font",
-			"protection_header"				: "Protection",
-			"password"						: "Password",
-			"password_help"					: "Require users to enter a password before accessing the link.",
-			"sensitive_content"				: "Sensitive content warning",
-			"sensitive_content_help"		: "Require users to confirm that they want to access your link and letting them know that the link might be sensitive.",
-			"leap_link"						: "Leap Link URL",
+			"fonts_header"					: "Kiểu chữ",
+			"font"							: "Kiểu chữ",
+			"protection_header"				: "Bảo mật",
+			"password"						: "Mật khẩu",
+			"password_help"					: "Yêu cầu người dùng nhập mật khẩu trước khi truy cập liên kết.",
+			"sensitive_content"				: "Cảnh báo nội dung nhạy cảm",
+			"sensitive_content_help"		: "Yêu cầu người dùng xác nhận rằng họ muốn truy cập liên kết của bạn và cho họ biết rằng liên kết có thể nhạy cảm.",
+			"leap_link"						: "   URL",
 			"leap_link_help"				: "Fully redirect all users that access the biolink page to this URL. Leave empty to disable the feature."
 		},
 
