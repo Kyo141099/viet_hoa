@@ -1,104 +1,104 @@
 {
-	"language_code": "vn",
+	"language_code": "en",
 
 	"global": {
-		"submit"						: "Gửi",
-		"create"						: "Tạo",
-		"delete"						: "Xóa",
-		"edit"							: "Sửa",
-		"view"							: "Xem",
-		"cancel"						: "Hủy",
-		"update"						: "Cập nhật",
-		"enable"						: "Kích hoạt",
-		"disable"						: "Vô hiệu hóa",
-		"hidden"						: "Ẩn",
-		"login"							: "Đăng nhập",
-		"language"						: "Ngôn ngữ",
-		"choose_language"				: "Chọn ngôn ngữ",
-		"theme_style"					: "Chuyển sang chế độ %s ",
-		"theme_style_light"				: "Sáng",
-		"theme_style_dark"				: "Tối",
-		"close"							: "Đóng",
-		"search"						: "Tìm kiếm",
-		"go_back_button"				: "Trở lại",
-		"no_data"						: "Không tìm thấy dữ liệu..",
+		"submit"						: "Submit",
+		"create"						: "Create",
+		"delete"						: "Delete",
+		"edit"							: "Edit",
+		"view"							: "View",
+		"cancel"						: "Cancel",
+		"update"						: "Update",
+		"enable"						: "Enable",
+		"disable"						: "Disable",
+		"hidden"						: "Hidden",
+		"login"							: "Login",
+		"language"						: "Language",
+		"choose_language"				: "Choose Language",
+		"theme_style"					: "Switch to %s Mode",
+		"theme_style_light"				: "Light",
+		"theme_style_dark"				: "Dark",
+		"close"							: "Close",
+		"search"						: "Search",
+		"go_back_button"				: "Go Back",
+		"no_data"						: "No data available..",
 		"yes"							: "Yes",
 		"no"							: "No",
-		"active"						: "kịch hoạt",
-		"disabled"						: "Vô hiệu hóa",
-		"export_csv"					: "Xuất ra CSV",
-		"export_json"					: "Xuất ra  JSON",
-		"captcha_placeholder"			: "Mã Captcha ",
+		"active"						: "Active",
+		"disabled"						: "Disabled",
+		"export_csv"					: "Export to CSV",
+		"export_json"					: "Export to JSON",
+		"captcha_placeholder"			: "Captcha text",
 		"loading"						: "Loading..",
 		"view_more"						: "View more",
 		"view_x_more"					: "View %s more..",
 		"clipboard_copy"				: "Copy to clipboard",
-		"clipboard_copied"				: "đã copy!",
-		"verified"						: "Đã xác thực",
-		"terms_and_conditions"			: "Các điều khoản và điều kiện",
-		"privacy_policy"				: "Chính sách quyền riêng tư",
+		"clipboard_copied"				: "Copied!",
+		"verified"						: "Verified",
+		"terms_and_conditions"			: "Terms and Conditions",
+		"privacy_policy"				: "Privacy Policy",
 
 		"message_type": {
-			"error"						: "Lỗi!",
-			"info"						: "Thông tin!",
-			"success"					: "Thành công!"
+			"error"						: "Error!",
+			"info"						: "Info!",
+			"success"					: "Success!"
 		},
 
 		"info_message": {
-			"confirm_delete"			: "bạn có chắc chắn muốn xóa chúng?",
-            "user_plan_is_expired"   	: "Kế hoạch hiện tại của bạn đã hết hạn và truy cập của bạn bị hạn chế. Hãy tạo một kế hoạch mới!",
-			"plan_feature_no_access"	: "Kế hoạch hiện tại của bạn không thể truy cập đến chức năng này."
+			"confirm_delete"			: "Are you sure you want to delete this?",
+            "user_plan_is_expired"   	: "Your current plan has expired and your access is limited. Please get a new plan!",
+			"plan_feature_no_access"	: "Your current plan does not allow you to access this feature."
 		},
 
 		"success_message": {
-			"basic"						: "Yêu cầu của bạn đã thực hiện thành công!"
+			"basic"						: "Your requested command was performed successfully!"
 		},
 
 		"error_message": {
-			"directory_not_writable"	: "Danh mục này không thể điền vào <strong>%s</strong>",
-			"empty_fields"				: "bạn cần điền vào tất cả các trường!",
-			"invalid_captcha"			: "Mã captcha không hợp lệ!",
-			"invalid_file_type"			: "File không hợp lệ!",
-			"file_upload"				: "Có sự cố trong quá trình tải ảnh lên và chúng tôi không thể xử lý nó.",
-			"invalid_csrf_token"		: "Không thể hoàn tất tác vụ vì trình bảo vệ đã hết hạn , Hãy thử lại!",
-			"basic"						: "Chúng tôi không thể thực hiện yêu cầu của bạn!"
+			"directory_not_writable"	: "Directory is not writable <strong>%s</strong>",
+			"empty_fields"				: "You must fill all the fields!",
+			"invalid_captcha"			: "The captcha code is not valid!",
+			"invalid_file_type"			: "Invalid file type!",
+			"file_upload"				: "Something happened while uploading the image and we could not process it.",
+			"invalid_csrf_token"		: "The action could not be finished because the protector has expired, please try again!",
+			"basic"						: "We could not perform your requested command!"
 		},
 
 		"menu": {
-			"home"						: "Trang chủ",
-			"logout"					: "Đăng xuất",
-			"settings"					: "Cài đặt",
+			"home"						: "Home",
+			"logout"					: "Logout",
+			"settings"					: "Settings",
 			"admin"						: "Admin",
-			"website"					: "Tới website",
-			"admin_others"				: "Khác"
+			"website"					: "Visit website",
+			"admin_others"				: "Others"
 		},
 
 		"accessibility": {
-			"toggle_navigation"			: "Thanh điều hướng",
+			"toggle_navigation"			: "Toggle navigation",
 			"logo_alt"					: "Website Logo",
 			"captcha_alt"				: "Captcha",
 			"captcha_input"				: "Captcha Field"
 		},
 
 		"pagination": {
-			"previous"					: "Lùi lại",
-			"next"						: "Tiếp theo",
-			"results"					: "Hiển thị %s-%s ra %s kết quả."
+			"previous"					: "Previous",
+			"next"						: "Next",
+			"results"					: "Showing %s-%s out of %s results."
 		},
 
 		"filters": {
-			"header"					: "Bộ lọc",
+			"header"					: "Filters",
 			"reset"						: "Reset",
-			"search"					: "Tìm kiếm",
-			"search_by"					: "Tìm kiếm bằng",
-			"status"					: "Trạng thái",
-			"order_by"					: "Sắp xếp",
-			"order_by_datetime"			: "Sắp xếp theo thời gian",
-			"order_type"				: "Loại sắp xếp",
-			"order_type_asc"			: "Tăng dần",
-			"order_type_desc"			: "Giảm dần",
-			"all"						: "Tất cả",
-			"results_per_page"			: "Kết quả của từng trang"
+			"search"					: "Search",
+			"search_by"					: "Search by",
+			"status"					: "Status",
+			"order_by"					: "Order by",
+			"order_by_datetime"			: "Created datetime",
+			"order_type"				: "Order type",
+			"order_type_asc"			: "Ascending",
+			"order_type_desc"			: "Descending",
+			"all"						: "All",
+			"results_per_page"			: "Results per page"
 		},
 
 		"date": {
@@ -109,83 +109,83 @@
 			"datetime_his_format"		: "%1$s:%2$s:%3$s",
 			"datetime_ymd_his_format"	: "%1$s-%2$s-%3$s %4$s:%5$s:%6$s",
 
-			"now"						: "Hiện tại",
-			"cancel"					: "Hủy",
+			"now"						: "now",
+			"cancel"					: "Cancel",
 			"apply"						: "Apply",
-			"from"						: "Từ",
-			"to"						: "Đến",
-			"custom"					: "Tùy chọn",
-			"today"						: "Hôm nay",
-			"yesterday"					: "Hôm qua",
-			"last_7_days"				: "7 Ngày trước",
-			"last_30_days"				: "30 Ngày trước",
-			"this_month"				: "Tháng này",
-			"last_month"				: "Tháng trước",
-			"all_time"					: "Tất cả thời giam",
+			"from"						: "From",
+			"to"						: "To",
+			"custom"					: "Custom",
+			"today"						: "Today",
+			"yesterday"					: "Yesterday",
+			"last_7_days"				: "Last 7 days",
+			"last_30_days"				: "Last 30 days",
+			"this_month"				: "This month",
+			"last_month"				: "Last month",
+			"all_time"					: "All time",
 
-			"second"					: "giây",
-			"seconds"					: "giây",
-			"minute"					: "phút",
-			"minutes"					: "phút",
-			"hour"						: "giờ",
-			"hours"						: "giờ",
-			"day"						: "ngày",
-			"days"						: "ngày",
-			"month"						: "tháng",
-			"months"					: "tháng",
-			"year"						: "năm",
-			"years"						: "năm",
-			"time_ago"					: "%1$s %2$s trước đây",
-			"time_until"				: "%1$s %2$s đến",
+			"second"					: "second",
+			"seconds"					: "seconds",
+			"minute"					: "minute",
+			"minutes"					: "minutes",
+			"hour"						: "hour",
+			"hours"						: "hours",
+			"day"						: "day",
+			"days"						: "days",
+			"month"						: "month",
+			"months"					: "months",
+			"year"						: "year",
+			"years"						: "years",
+			"time_ago"					: "%1$s %2$s ago",
+			"time_until"				: "%1$s %2$s until",
 
 			"long_days": {
-				"1"						: "Thứ hai",
-				"2"						: "Thứ ba",
-				"3"						: "Thứ tư",
-				"4"						: "Thứ năm",
-				"5"						: "Thứ sáu",
-				"6"						: "Thứ bảy",
-				"7"						: "Chủ nhật"
+				"1"						: "Monday",
+				"2"						: "Tuesday",
+				"3"						: "Wednesday",
+				"4"						: "Thursday",
+				"5"						: "Friday",
+				"6"						: "Saturday",
+				"7"						: "Sunday"
 			},
 
 			"short_days": {
-				"1"						: "Thứ hai",
-				"2"						: "Thứ ba",
-				"3"						: "Thứ tư",
-				"4"						: "Thứ năm",
-				"5"						: "Thứ sáu",
-				"6"						: "Thứ bảy",
-				"7"						: "Chủ nhật"
+				"1"						: "Mon",
+				"2"						: "Tue",
+				"3"						: "Wed",
+				"4"						: "Thu",
+				"5"						: "Fri",
+				"6"						: "Sat",
+				"7"						: "Sun"
 			},
 
 			"long_months": {
-				"1"						: "Tháng một",
-				"2"						: "Tháng hai",
-				"3"						: "Tháng ba",
-				"4"						: "Tháng tư",
-				"5"						: "Tháng năm",
-				"6"						: "Tháng sáu",
-				"7"						: "Tháng bảy",
-				"8"						: "Tháng tám",
-				"9"						: "Tháng chín",
-				"10"					: "Tháng mười",
-				"11"					: "Tháng mười một",
-				"12"					: "Tháng mười hai"
+				"1"						: "January",
+				"2"						: "February",
+				"3"						: "March",
+				"4"						: "April",
+				"5"						: "May",
+				"6"						: "June",
+				"7"						: "July",
+				"8"						: "August",
+				"9"						: "September",
+				"10"					: "October",
+				"11"					: "November",
+				"12"					: "December"
 			},
 
 			"short_months": {
-				"1"						: "Tháng một",
-				"2"						: "Tháng hai",
-				"3"						: "Tháng ba",
-				"4"						: "Tháng tư",
-				"5"						: "Tháng năm",
-				"6"						: "Tháng sáu",
-				"7"						: "Tháng bảy",
-				"8"						: "Tháng tám",
-				"9"						: "Tháng chín",
-				"10"					: "Tháng mười",
-				"11"					: "Tháng mười một",
-				"12"					: "Tháng mười hai"
+				"1"						: "Jan",
+				"2"						: "Feb",
+				"3"						: "Mar",
+				"4"						: "Apr",
+				"5"						: "May",
+				"6"						: "Jun",
+				"7"						: "Jul",
+				"8"						: "Aug",
+				"9"						: "Sep",
+				"10"					: "Oct",
+				"11"					: "Nov",
+				"12"					: "Dec"
 			}
 		},
 
@@ -196,38 +196,38 @@
 
 		"emails": {
 			"user_activation": {
-				"subject"				: "Chào mừng {{NAME}}! - kích hoạt email",
-				"body"					: "Chào {{NAME}},<br /><br />Chúng tôi rất vui vì bạn đã tham gia cùng chúng tôi! <br /><br />Chỉ một bước nữa và bạn đã sẵn sàng,<br /><br />bạn chỉ cần nhấp vào liên kết sau để tham gia {{WEBSITE_TITLE}}<br /><br /><a href=\"{{ACTIVATION_LINK}}\">kích hoạt tài khoản của bạn</a><br /><br />Lời chào từ {{WEBSITE_TITLE}}!"
+				"subject"				: "Welcome {{NAME}}! - Activation email",
+				"body"					: "Hey there {{NAME}},<br /><br />We are glad you joined us! <br /><br />One more step and you are ready,<br /><br />you just need to click the following link in order to join {{WEBSITE_TITLE}}<br /><br /><a href=\"{{ACTIVATION_LINK}}\">Activate your account</a><br /><br />Greetings from {{WEBSITE_TITLE}}!"
 			},
 
 			"user_pending_email": {
-				"subject"				: "Xác nhận thay đổi địa chỉ email của bạn - {{WEBSITE_TITLE}}",
-				"body"					: "Hey there {{NAME}},<br /><br />Bạn đã yêu cầu thay đổi địa chỉ email của mình từ {{CURRENT_EMAIL}} thành {{NEW_EMAIL}}. <br /><br />Vui lòng nhấp vào liên kết bên dưới để xác nhận địa chỉ email mới của bạn. <br /><br /><a href=\"{{ACTIVATION_LINK}}\">Xác nhận thay đổi địa chỉ email</a><br /><br />Lời chào từ {{WEBSITE_TITLE}}!"
+				"subject"				: "Confirm your email address change - {{WEBSITE_TITLE}}",
+				"body"					: "Hey there {{NAME}},<br /><br />You have requested to change your email address from {{CURRENT_EMAIL}} to {{NEW_EMAIL}}. <br /><br />Please click on the link below to confirm your new email address. <br /><br /><a href=\"{{ACTIVATION_LINK}}\">Confirm email address change</a><br /><br />Greetings from {{WEBSITE_TITLE}}!"
 			},
 
 			"user_lost_password": {
-				"subject"				: "Đặt lại mật khẩu của bạn - {{WEBSITE_TITLE}}",
-				"body"					: "Hey {{NAME}},<br /><br />Đây là liên kết đặt lại mật khẩu của bạn: <a href=\"{{LOST_PASSWORD_LINK}}\">Đặt lại mật khẩu</a><br /><br />Nếu bạn không yêu cầu điều này, bạn có thể bỏ qua nó!<br /><br />Lời chào từ {{WEBSITE_TITLE}}!"
+				"subject"				: "Reset your password - {{WEBSITE_TITLE}}",
+				"body"					: "Hey {{NAME}},<br /><br />This is your reset password link: <a href=\"{{LOST_PASSWORD_LINK}}\">Reset Password</a><br /><br />If you did not request this, you can ignore it!<br /><br />Greetings from {{WEBSITE_TITLE}}!"
 			},
 
 			"user_payment": {
-				"subject"				: "Đã thanh toán  - {{WEBSITE_TITLE}}",
-				"body"					: "Chào,<br /><br />Đây là xác nhận rằng chúng tôi đã nhận được khoản thanh toán của bạn.<br /><br />Gói tài khoản của bạn hiện được thanh toán đến  {{PLAN_EXPIRATION_DATE}}!<br /><br />Bạn cũng có thể kiểm tra tất cả <a href=\"{{USER_PAYMENTS_LINK}}\">thanh toán</a> bạn đã thực hiện, <a href=\"{{USER_PACKAGE_LINK}}\">thay đổi kế hoạch của bạn</a> or <a href=\"{{USER_PACKAGE_LINK}}\">Hủy nó</a>.<br /><br />Lời chào từ {{WEBSITE_TITLE}}!"
+				"subject"				: "Payment received - {{WEBSITE_TITLE}}",
+				"body"					: "Hey there,<br /><br />This is a confirmation that your payment has been received by us.<br /><br />Your account plan is now paid until {{PLAN_EXPIRATION_DATE}}!<br /><br />You can also check all the <a href=\"{{USER_PAYMENTS_LINK}}\">payments</a> you made, <a href=\"{{USER_PACKAGE_LINK}}\">change your plan</a> or <a href=\"{{USER_PACKAGE_LINK}}\">cancel it</a>.<br /><br />Greetings from {{WEBSITE_TITLE}}!"
 			},
 
 			"admin_new_user_notification": {
-				"subject"				: "Đăng ký người dùng mới!",
-				"body"					: "Chào!<br /><br />Một người dùng mới vừa đăng ký vào trang web!<br /><br />Chào mừng <strong>%s</strong> with the <strong>%s</strong> email to your website!"
+				"subject"				: "New User Registered!",
+				"body"					: "Hey!<br /><br />A new user just registered to the website!<br /><br />Welcome <strong>%s</strong> with the <strong>%s</strong> email to your website!"
 			},
 
 			"admin_new_payment_notification": {
-				"subject"				: "Thanh toán mới via %s of %s %s!",
-				"body"					: "Chào!<br /><br />Một người dùng vừa trả tiền <strong>%s %s</strong> cho trang web!<br /><br />Đây là để có thêm thu nhập!"
+				"subject"				: "New Payment via %s of %s %s!",
+				"body"					: "Hey!<br /><br />A user just paid <strong>%s %s</strong> to the website!<br /><br />Here's to more earnings!"
 			},
 
 			"admin_new_domain_notification": {
-				"subject"				: " Tên miền tùy chỉnh mới đang chờ phê duyệt!",
-				"body"					: "Chào!<br /><br />Tên miền tùy chỉnh của người dùng hiện đang chờ phê duyệt.<br /><br /> <strong>Tên miền tùy chỉnh:</strong> {{DOMAIN_HOST}}<br /><br /><a href=\"{{ADMIN_DOMAIN_UPDATE_LINK}}\">Xem tên miền</a>"
+				"subject"				: "New Custom Domain is pending approval!",
+				"body"					: "Hey!<br /><br />A user's custom domain is now pending approval.<br /><br /> <strong>Custom domain:</strong> {{DOMAIN_HOST}}<br /><br /><a href=\"{{ADMIN_DOMAIN_UPDATE_LINK}}\">View domain</a>"
 			}
 		},
 
@@ -236,576 +236,576 @@
 		},
 
         "plan_settings": {
-			"additional_global_domains" : "<i class=\"fa fa-fw fa-sm fa-globe mr-1\"></i> Bổ sung tên miền quốc tế",
-			"additional_global_domains_help": "Bạn có quyền truy cập vào các miền bổ sung để sử dụng.",
-			"custom_url" 				: "<i class=\"fa fa-fw fa-sm fa-link mr-1\"></i> Tùy chỉnh Back-half",
-			"custom_url_help"			: "Thay vì các url được tạo tự động, like /a853we6, bạn có thể chọn của riêng bạn",
-			"deep_links"                : "<i class=\"fa fa-fw fa-sm fa-anchor mr-1\"></i> Liên kết sâu",
-			"deep_links_help"			: "Cung cấp khả năng nhập các liên kết sâu, như: steam://rungameid/id",
-			"no_ads"                    : "<i class=\"fa fa-fw fa-sm fa-eye-slash mr-1\"></i> Không quản cáo",
-			"no_ads_help"				: "Bạn sẽ không thấy bất kỳ quảng cáo nào trên nền tảng và cũng không có quảng cáo nào được đặt trên các trang biolink của bạn",
-			"removable_branding"		: "<i class=\"fa fa-fw fa-sm fa-eye-slash mr-1\"></i> Xóa bỏ thương hiệu",
-			"removable_branding_help"	: "Tất cả thương hiệu sẽ bị xóa khỏi Biolinks",
-			"custom_branding"			: "<i class=\"fa fa-fw fa-sm fa-ad mr-1\"></i> Thương hiệu tùy chỉnh",
-			"custom_branding_help"		: "Thay đổi và dán nhãn thương hiệu trong Biolinks của bạn",
-			"custom_colored_links"		: "<i class=\"fa fa-fw fa-sm fa-paint-brush mr-1\"></i> Tùy chỉnh màu sắc",
-			"custom_colored_links_help"	: "Bạn có thể chọn màu tùy chỉnh của riêng mình cho các liên kết bên trong trang biolink",
-			"statistics"				: "<i class=\"fa fa-fw fa-sm fa-chart-bar mr-1\"></i> Thống kê chi tiết",
-			"statistics_help"			: "Bạn có quyền truy cập vào các thống kê nâng cao hơn cho tất cả các liên kết của mình",
+			"additional_global_domains" : "<i class=\"fa fa-fw fa-sm fa-globe mr-1\"></i> Additional Global Domains",
+			"additional_global_domains_help": "You get access to extra domains to use.",
+			"custom_url" 				: "<i class=\"fa fa-fw fa-sm fa-link mr-1\"></i> Custom Back-half",
+			"custom_url_help"			: "Instead of auto generated urls, like /a853we6, you get to choose your own",
+			"deep_links"                : "<i class=\"fa fa-fw fa-sm fa-anchor mr-1\"></i> Deep linking",
+			"deep_links_help"			: "Provides the ability to enter deep links, like: steam://rungameid/id",
+			"no_ads"                    : "<i class=\"fa fa-fw fa-sm fa-eye-slash mr-1\"></i> No Ads",
+			"no_ads_help"				: "You won't see any ads on the platform and neither will ads be placed on your biolink pages",
+			"removable_branding"		: "<i class=\"fa fa-fw fa-sm fa-eye-slash mr-1\"></i> Removable branding",
+			"removable_branding_help"	: "All the branding will be removed from your created Biolinks",
+			"custom_branding"			: "<i class=\"fa fa-fw fa-sm fa-ad mr-1\"></i> Custom branding",
+			"custom_branding_help"		: "Change and whitelabel the branding of your Biolinks",
+			"custom_colored_links"		: "<i class=\"fa fa-fw fa-sm fa-paint-brush mr-1\"></i> Custom colors",
+			"custom_colored_links_help"	: "You can choose your own custom colors for links inside of the biolink pages",
+			"statistics"				: "<i class=\"fa fa-fw fa-sm fa-chart-bar mr-1\"></i> Indepth Statistics",
+			"statistics_help"			: "You get access to more advanced statistics for all your links",
 			"google_analytics"			: "<i class=\"fab fa-fw fa-sm fa-google mr-1\"></i> Google Analytics",
-			"google_analytics_help"		: " Google analytics được tích hợp cho bạn trong trang biolink",
+			"google_analytics_help"		: "Easy google analytics integration for your biolink pages",
 			"facebook_pixel"			: "<i class=\"fab fa-fw fa-sm fa-facebook mr-1\"></i> Facebook Pixel",
-			"facebook_pixel_help"		: " Facebook Pixel được tích hợp cho bạn trong trang biolink",
-			"custom_backgrounds"		: "<i class=\"fa fa-fw fa-sm fa-fill mr-1\"></i> Tùy chỉnh hình nền",
-			"custom_backgrounds_help"	: "Bạn có thể thêm hình nền tùy chỉnh của riêng mình trên trang Biolink",
-			"verified"					: "<i class=\"fa fa-fw fa-sm fa-check-circle mr-1\"></i> Dấu xác minh",
-			"verified_help"				: "Bạn sẽ nhận được dấu đã xác minh cho tất cả các trang biolink của mình ",
-			"scheduling"				: "<i class=\"fa fa-fw fa-sm fa-clock mr-1\"></i> Lập lịch trình cho các liên kết",
-			"scheduling_help"			: "Chuẩn bị tất cả các liên kết của bạn để hoạt động khi bạn chỉ định ",
-			"seo"						: "<i class=\"fa fa-fw fa-sm fa-search-plus mr-1\"></i> Các tính năng SEO",
-			"seo_help"					: "Tùy chỉnh các thẻ meta cho các trang biolink của bạn ",
-			"utm"						: "<i class=\"fa fa-fw fa-sm fa-key mr-1\"></i> Tham số UTM",
-			"utm_help"					: "Dễ dàng điều chỉnh các thông số UTM cho tất cả các liên kết của bạn",
-			"socials"					: "<i class=\"fa fa-fw fa-sm fa-hashtag mr-1\"></i> liên kết xã hội",
-			"socials_help"				: "Được quyền thêm các liên kết xã hội vào phía dưới trang biolink",
-			"fonts"						: "<i class=\"fa fa-fw fa-sm fa-pen-nib mr-1\"></i> Phông chữ bổ sung",
-			"fonts_help"				: "Được quyền sử dụng nhiều phông chữ trên trang biolink của bạn",
-			"password"					: "<i class=\"fa fa-fw fa-sm fa-lock mr-1\"></i> Mật khẩu bảo vệ",
-			"password_help"				: "Được quyền thiết lập mật khẩu để bảo vệ các liên kết hoặc trang biolink của bạn",
-			"sensitive_content"			: "<i class=\"fa fa-fw fa-sm fa-eye mr-1\"></i> Nội dung nhạy cảm",
-			"sensitive_content_help"	: "Được quyền bật cảnh báo nội dung nhạy cảm trên các liên kết hoặc trang biolink của bạn",
-			"leap_link"					: "<i class=\"fa fa-fw fa-sm fa-forward mr-1\"></i> Liên kết nhảy",
-			"leap_link_help"			: "Chuyển hướng từ trang biolink đến một URL cụ thể(hữu ích khi có quảng cáo)",
+			"facebook_pixel_help"		: "Easy Facebook Pixel integration for your biolink pages",
+			"custom_backgrounds"		: "<i class=\"fa fa-fw fa-sm fa-fill mr-1\"></i> Custom Backgrounds",
+			"custom_backgrounds_help"	: "You can add your own custom Biolink page backgrounds",
+			"verified"					: "<i class=\"fa fa-fw fa-sm fa-check-circle mr-1\"></i> Verified Checkmark",
+			"verified_help"				: "You will get the verified checkmark for all your biolink pages",
+			"scheduling"				: "<i class=\"fa fa-fw fa-sm fa-clock mr-1\"></i> Links Scheduling",
+			"scheduling_help"			: "Prepare all your links to go live when you specify",
+			"seo"						: "<i class=\"fa fa-fw fa-sm fa-search-plus mr-1\"></i> SEO Features",
+			"seo_help"					: "Customize the meta tags for your biolink pages",
+			"utm"						: "<i class=\"fa fa-fw fa-sm fa-key mr-1\"></i> UTM Parameters",
+			"utm_help"					: "Easily adjust the UTM parameters for all your links",
+			"socials"					: "<i class=\"fa fa-fw fa-sm fa-hashtag mr-1\"></i> Social links",
+			"socials_help"				: "Get access to add quick social links in the footer of your biolink page",
+			"fonts"						: "<i class=\"fa fa-fw fa-sm fa-pen-nib mr-1\"></i> Extra Fonts",
+			"fonts_help"				: "Get access to multiple fonts to use for your biolink page",
+			"password"					: "<i class=\"fa fa-fw fa-sm fa-lock mr-1\"></i> Password protection",
+			"password_help"				: "Get access to password protect your links or biolink pages",
+			"sensitive_content"			: "<i class=\"fa fa-fw fa-sm fa-eye mr-1\"></i> Sensitive content",
+			"sensitive_content_help"	: "Get access to enable sensitive content warning on your links or biolink pages",
+			"leap_link"					: "<i class=\"fa fa-fw fa-sm fa-forward mr-1\"></i> Leap link",
+			"leap_link_help"			: "The ability to temporarily redirect a biolink page to a specific URL (useful when having promotions)",
 
-			"unlimited_projects_limit"	: "<i class=\"fa fa-fw fa-infinity mr-1\"></i> Dự án không giới hạn",
-			"projects_limit"			: "<strong>%s</strong> Dự án",
+			"unlimited_projects_limit"	: "<i class=\"fa fa-fw fa-infinity mr-1\"></i> Unlimited Projects",
+			"projects_limit"			: "<strong>%s</strong> Projects",
 
-			"unlimited_biolinks_limit"	: "<i class=\"fa fa-fw fa-infinity mr-1\"></i> Trang Biolink không giới hạn",
-			"biolinks_limit"			: "<strong>%s</strong> Trang Biolink",
+			"unlimited_biolinks_limit"	: "<i class=\"fa fa-fw fa-infinity mr-1\"></i> Unlimited Biolink Pages",
+			"biolinks_limit"			: "<strong>%s</strong> Biolink Pages",
 
-			"unlimited_links_limit"		: "<i class=\"fa fa-fw fa-infinity mr-1\"></i> Không giới hạn liên kết rút ngắn ",
-			"links_limit"				: "<strong>%s</strong> Liên kết rút ngắn",
+			"unlimited_links_limit"		: "<i class=\"fa fa-fw fa-infinity mr-1\"></i> Unlimited Shorted Links",
+			"links_limit"				: "<strong>%s</strong> Shortened Links",
 
-			"unlimited_domains_limit"	: "<i class=\"fa fa-fw fa-globe mr-1\"></i> Không giới hạn tên miền tùy chỉnh  ",
-			"domains_limit"				: "<strong>%s</strong> Tên miền tùy chỉnh",
+			"unlimited_domains_limit"	: "<i class=\"fa fa-fw fa-globe mr-1\"></i> Unlimited Custom Domains",
+			"domains_limit"				: "<strong>%s</strong> Custom Domains",
 
-			"enabled_biolink_blocks_all"	: "Tất cả các khối Biolink",
-			"enabled_biolink_blocks_x"		: "%s kích hoạt khối Biolink"
+			"enabled_biolink_blocks_all"	: "All Biolink Blocks",
+			"enabled_biolink_blocks_x"		: "%s Enabled Biolink Blocks"
         }
 	},
 
 	"page": {
-		"breadcrumb"					: "trang",
-		"print"							: "in",
+		"breadcrumb"					: "Page",
+		"print"							: "Print",
 
-		"estimated_reading_time"		: "%s đọc",
-		"last_date"						: "cập nhật gần nhất: %s"
+		"estimated_reading_time"		: "%s read",
+		"last_date"						: "Last updated on: %s"
 	},
 
 	"pages": {
-		"title"							: "Trang",
-		"header"						: "Trung tâm tài nguyên",
-		"subheader"						: "Tại đây, bạn có thể tìm thấy các trang tài nguyên hữu ích tùy thuộc vào nhu cầu của mình.",
-		"total_views"					: "(%s lượt xem)",
+		"title"							: "Pages",
+		"header"						: "Resources center",
+		"subheader"						: "Here you can find useful page resources depending on your needs.",
+		"total_views"					: "(%s views)",
 
 		"index": {
-			"breadcrumb"				: "Trang",
+			"breadcrumb"				: "Pages",
 
 			"popular_pages": {
-				"header"				: "Trang phổ biến"
+				"header"				: "Popular pages"
 			},
 
 			"pages_categories": {
-				"header"				: "Thể lọai",
-				"total_pages"			: "%s Trang có sẵn"
+				"header"				: "Categories",
+				"total_pages"			: "%s available pages"
 			}
 		},
 
 		"pages_category": {
-			"breadcrumb"				: "Loại trang"
+			"breadcrumb"				: "Pages Category"
 		}
 	},
 
 	"plan": {
-		"breadcrumb"					: "Chọn kế hoạch",
-		"title"							: "kế hoạch",
-		"header_new"					: "Chọn kế hoạch của bạn",
-		"subheader_new"					: "Chọn kế hoạch thuận tiện nhất cho bạn.",
-		"header_renew"					: "Gia hạn kế hoạch của bạn",
-		"subheader_renew"				: "Chọn một gói để gia hạn đăng ký của bạn.",
-		"header_upgrade"				: "Nâng cáp kế hoạch của bạn",
-		"subheader_upgrade"				: "Chọn một gói để nâng cấp đăng ký của bạn.",
+		"breadcrumb"					: "Choose plan",
+		"title"							: "Plan",
+		"header_new"					: "Choose your plan",
+		"subheader_new"					: "Select the most convenient plan for you.",
+		"header_renew"					: "Renew your plan",
+		"subheader_renew"				: "Select one plan to renew your subscription.",
+		"header_upgrade"				: "Upgrade your plan",
+		"subheader_upgrade"				: "Select one plan to upgrade your subscription.",
 
 		"free": {
-			"price"						: "Miễn phí"
+			"price"						: "Free"
 		},
 
 		"trial": {
-			"price"						: "Dùng thử"
+			"price"						: "Trial"
 		},
 
 		"custom_plan": {
-			"monthly"					: "Hàng tháng",
-			"annual"					: "Hàng năm",
-			"lifetime"					: "Cả đời",
-			"monthly_payments"			: "Thanh toán hàng thángs.",
-			"annual_payments"			: "Thanh toán hàng năm.",
-			"lifetime_payments"			: "Thanh toán trọn đời."
+			"monthly"					: "Monthly",
+			"annual"					: "Annual",
+			"lifetime"					: "Lifetime",
+			"monthly_payments"			: "Monthly payments.",
+			"annual_payments"			: "Annual payments.",
+			"lifetime_payments"			: "Lifetime payments."
 		},
 
 		"button": {
-			"choose"					: "Chọn kế hoạch",
-			"disabled"					: "Vô hiệu hóa",
-			"already_free"				: "Kế hoạch của bạn"
+			"choose"					: "Choose plan",
+			"disabled"					: "Disabled",
+			"already_free"				: "Your plan"
 		}
 	},
 
 	"pay": {
-		"breadcrumb"					: "%s kế hoạch",
-		"title"							: "Thanh toán",
-		"plan_details"					: "Những gì bạn sẽ nhận được",
-		"accept"						: "Bằng cách tiếp tục với đơn đặt hàng của bạn, bạn xác nhận rằng bạn đã đọc, hiểu & đồng ý với %s và %s của trang web.",
+		"breadcrumb"					: "%s plan",
+		"title"							: "Pay",
+		"plan_details"				: "What you'll get",
+		"accept"						: "By continuing with your order you confirm that you read, understand & agree to the %s and %s of the site.",
 
 		"free": {
-			"free_already"				: "Gói miễn phí của bạn đã được kích hoạt!",
-			"other_plan_not_expired"	: "Gói hiện tại của bạn chưa hết hạn, bạn sẽ nhận được gói miễn phí sau khi hết hạn!"
+			"free_already"				: "Your already have the free plan activated!",
+			"other_plan_not_expired"	: "Your current plan is not expired yet, you will get the free plan after it expires!"
 		},
 
 		"trial": {
-			"header"					: "Bắt đầu kế hoạch %s ",
-			"subheader"					: "Bạn gần như ở đó.",
+			"header"					: "Start the %s plan",
+			"subheader"					: "You are almost there.",
 
-			"trial_done"				: "Tùy chọn dùng thử của bạn đã được sử dụng, bạn không thể gia hạn nữa.",
-			"other_plan_not_expired"	: "Gói hiện tại của bạn vẫn chưa hết hạn, nếu bạn bắt đầu dùng thử, gói này sẽ ghi đè lên!",
-			"trial_start"				: "Bắt đầu %s ngày dùng thử"
+			"trial_done"				: "Your trial option was already used, you can't renew it anymore.",
+			"other_plan_not_expired"	: "Your current plan is not expired yet, if you start your trial it will override it!",
+			"trial_start"				: "Start my %s days trial"
 		},
 
 		"custom_plan": {
-			"header"					: "Mua kế hoạch %s ",
-			"subheader"					: "Bạn sắp hoàn thành, hãy hoàn thành biểu mẫu sau và thanh toán.",
+			"header"					: "Purchase the %s plan",
+			"subheader"					: "You are almost there, complete the following form and checkout.",
 
 			"paypal"					: "PayPal",
 			"stripe"					: "Stripe",
-			"offline_payment"			: "Thanh toán ngoại tuyến",
+			"offline_payment"			: "Offline payment",
 
-			"payment_frequency"			: "Phương Thức Thanh Toán",
-			"monthly"					: "Thanh toán hàng tháng",
-			"annual"					: "Thanh toán hàng năm",
+			"payment_frequency"			: "Payment frequency",
+			"monthly"					: "Monthly Payments",
+			"annual"					: "Annual Payments",
 			"annual_savings"			: "%s %s",
-			"lifetime"					: "Thỏa thuận trọn đời",
-			"lifetime_help"				: "Thanh toán một lần",
+			"lifetime"					: "Lifetime deal",
+			"lifetime_help"				: "One time payment",
 
-			"code_button"				: "Tôi có một mã giảm giá",
-			"code" 						: "Mã giảm giá",
+			"code_button"				: "I have a discount code",
+			"code" 						: "Discount code",
 
-			"payment_processor"			: "Cách thanh toán",
-			"no_processor"				: "Hiện tại không có hình thức thanh toán khả dụng.",
-			"offline_payment_instructions": "Hướng dẫn thanh toán",
-			"offline_payment_proof"		: "Chứng từ thanh toán",
-			"offline_payment_proof_help": "Utải lên bằng chứng thanh toán (jpg, jpeg, png hoặc pdf).",
+			"payment_processor"			: "Payment method",
+			"no_processor"				: "There are no payment processors available at the moment.",
+			"offline_payment_instructions": "Payment instructions",
+			"offline_payment_proof"		: "Proof of payment",
+			"offline_payment_proof_help": "Upload the proof of payment (jpg, jpeg, png or pdf).",
 
-			"payment_type"				: "Hình thức thanh toán",
-			"one_time_type"				: "Thanh toán một lần",
-			"recurring_type"            : "Thanh toán định kỳ",
+			"payment_type"				: "Type of payment",
+			"one_time_type"				: "One Time Payment",
+			"recurring_type"            : "Recurring Payment",
 
 			"summary": {
-				"header"				: "Tóm tắt theo thứ tự",
+				"header"				: "Order summary",
 
-				"plan"					: "kế hoạch",
+				"plan"				: "Plan",
 
-				"payment_frequency"		: "Tần suất",
-				"monthly"				: "Hàng tháng",
-				"monthly_help"			: "30 ngày một lần",
-				"annual"				: "Hàng năm",
-				"annual_help"			: "365 ngày một lần",
-				"lifetime"				: "Cả đời",
+				"payment_frequency"		: "Frequency",
+				"monthly"				: "Monthly",
+				"monthly_help"			: "Every 30 days",
+				"annual"				: "Yearly",
+				"annual_help"			: "Every 365 days",
+				"lifetime"				: "Lifetime",
 				"lifetime_help"			: "",
 
-				"payment_processor"		: "Được trả bằng",
+				"payment_processor"		: "Paid with",
 
-				"payment_type"			: "Kiểu",
-				"one_time"				: "Một lần",
+				"payment_type"			: "Type",
+				"one_time"				: "One time",
 				"one_time_help"			: "",
-				"recurring"				: "Định kỳ",
-				"recurring_help"		: "Thanh toán tự động",
+				"recurring"				: "Recurring",
+				"recurring_help"		: "Automatic billing",
 
-				"plan_price"			: "Giá",
+				"plan_price"			: "Price",
 
-				"discount"				: "Giảm giá",
+				"discount"				: "Discount",
 
-				"tax_inclusive"			: "Bao gồm",
-				"tax_exclusive"			: "Độc quyền",
+				"tax_inclusive"			: "Inclusive",
+				"tax_exclusive"			: "Exclusive",
 
-				"total"					: "Tổng"
+				"total"					: "Total"
 			},
 
-			"pay"						: "Thanh toán",
-			"billing_required"			: "Vui lòng điền vào các chi tiết thanh toán được yêu cầu!"
+			"pay"						: "Checkout",
+			"billing_required"			: "Please fill in the required billing details!"
 		},
 
 		"success_message": {
-			"code"						: "Mã giảm giá áp dụng cho %s."
+			"code"						: "Applied discount code for %s."
 		},
 
 		"error_message": {
-			"code_invalid"				: "Mã giảm giá này không hợp lệ..",
-			"code_used"					: "Bạn đã sử dụng mã giảm giá này..",
-			"canceled_payment"			: "Có vẻ như bạn đã hủy thanh toán vì một số lý do.",
-			"failed_payment"			: "Đã xảy ra lỗi, vui lòng thử lại nếu sự cố này vẫn tiếp diễn, hãy liên hệ với quản trị viên trang web.",
-			"offline_payment_proof_missing": "Bạn phải tải lên bằng chứng thanh toán trước khi gửi lệnh thanh toán."
+			"code_invalid"				: "This discount code is invalid..",
+			"code_used"					: "You have already used this discount code..",
+			"canceled_payment"			: "It seems you've canceled the payment for some reason.",
+			"failed_payment"			: "Something didn't work quite right, please try again if this persists contact the site admin.",
+			"offline_payment_proof_missing": "You must upload a payment proof before submitting the payment order."
 		}
 	},
 
 	"pay_thank_you" : {
-		"title"							: "Cảm ơn bạn",
-		"header"						: "Cảm ơn bạn!",
-		"button"						: "Đi tới trang chủ của tôi",
+		"title"							: "Thank you",
+		"header"						: "Thank you!",
+		"button"						: "Go to my dashboard",
 
-		"plan_trial_start"			: "Thời gian dùng thử của bạn vừa mới bắt đầu!",
-		"plan_custom_start"			: "Thanh toán của bạn đã được thực hiện và tư cách thành viên mới của bạn đã được kích hoạt!",
-		"plan_custom_will_start" 	: "Thanh toán của bạn đã được gửi và tư cách thành viên mới của bạn sẽ được kích hoạt!",
-		"plan_custom_pending"		: "Lệnh thanh toán của bạn đã được gửi và tư cách thành viên mới của bạn sẽ được kích hoạt nếu bằng chứng được chấp nhận!"
+		"plan_trial_start"			: "Your trial period just started!",
+		"plan_custom_start"			: "Your payment went through and your new membership is activated!",
+		"plan_custom_will_start" 	: "Your payment was sent and your new membership will be activated!",
+		"plan_custom_pending"		: "Your payment order was sent and your new membership will be activated if the proof will be accepted!"
 	},
 
 	"account": {
-		"title"							: "Tài khoản",
-		"menu"							: "Tài khoản",
+		"title"							: "Account",
+		"menu"							: "Account",
 
 		"plan": {
-			"header"				    : " Kế hoạch %s ",
-			"subheader"			    	: "kết thúc vào %s",
-			"upgrade_plan"			: "Nâng cấp kế hoạch",
-			"renew_plan"				: "Gia hạn / Thay đổi Kế hoạch",
-			"renew"						: "Gia hạn / Nâng cấp"
+			"header"				    : "%s Plan",
+			"subheader"			    	: "ends on %s",
+			"upgrade_plan"			: "Upgrade Plan",
+			"renew_plan"				: "Renew/Change Plan",
+			"renew"						: "Renew/Upgrade"
 		},
 
 		"settings": {
-			"header"					: "Cài đặt",
-			"subheader"					: "Cài đặt hồ sơ cơ bản của tài khoản của bạn.",
+			"header"					: "Settings",
+			"subheader"					: "Basic profile settings of your account.",
 
 			"email"						: "Email",
-			"name"						: "Tên",
-			"timezone"					: "Múi giờ",
-			"timezone_help"				: "Cách hiển thị múi giờ mà bạn thích."
+			"name"						: "Name",
+			"timezone"					: "Timezone",
+			"timezone_help"				: "Your preferred way of displaying dates."
 		},
 
 		"billing": {
-			"header"					: "Chi tiết thanh toán",
-			"subheader"					: "Các chi tiết thanh toán này được sử dụng khi tạo hóa đơn sau khi thanh toán thành công.",
+			"header"					: "Billing details",
+			"subheader"					: "These billing details are used when generating invoices after a successful payment.",
 
-			"subscription_id_active"	: "Bạn có một đăng ký đang hoạt động, bạn không thể thay đổi chi tiết thanh toán cho đến khi đăng ký hết hạn hoặc bị hủy.",
+			"subscription_id_active"	: "You have an active subscription, you can't change the billing details until the subscription expires or is cancelled.",
 
-			"type"						: "loại",
-			"type_personal"				: "Cá nhân",
-			"type_business"				: "Doanh nghiệp",
-			"name"						: "Tên",
-			"address"					: "Địa chỉ",
-			"city"						: "Thành phố",
-			"county"					: "Quận",
-			"country"					: "Quốc gia",
+			"type"						: "Type",
+			"type_personal"				: "Personal",
+			"type_business"				: "Business",
+			"name"						: "Name",
+			"address"					: "Address",
+			"city"						: "City",
+			"county"					: "County",
+			"country"					: "Country",
 			"zip"						: "ZIP",
-			"phone"						: "Số điện thoại",
+			"phone"						: "Phone",
 			"tax_id"					: "Tax ID"
 		},
 
 		"change_password": {
-			"header"					: "Thảy đổi mật khẩu",
-			"subheader"					: "Nếu bạn không muốn thay đổi mật khẩu của mình, đừng điền vào bất kỳ trường nào dưới đây.",
+			"header"					: "Change Password",
+			"subheader"					: "If you do not want to change your password, do not fill any of those fields below.",
 
-			"current_password"			: "Mật khẩu hiện tại",
-			"new_password"				: "Mật khẩu mới",
-			"repeat_password"			: "Nhập lại mật khẩu "
+			"current_password"			: "Current Password",
+			"new_password"				: "New Password",
+			"repeat_password"			: "Repeat Password"
 		},
 
 		"twofa": {
-			"header"					: "Xác thực hai yếu tố",
-			"subheader"					: "Sử dụng ứng dụng xác thực dành cho thiết bị di động để lấy mã xác minh nhập mỗi khi bạn đăng nhập.",
+			"header"					: "Two-factor authentication",
+			"subheader"					: "Use a mobile authentication app to get a verification code to enter every time you log in.",
 
-			"is_enabled"				: "Kích hoạt xác thực hai yếu tố",
-			"qr"						: "1. Quét mã QR",
-			"qr_help"					: "Mở ứng dụng xác thực (ví dụ: Authy, Google Authenticator) trên thiết bị di động của bạn và quét Mã QR sau bằng máy ảnh của bạn.",
+			"is_enabled"				: "Enable Two-factor authentication",
+			"qr"						: "1. Scan QR Code",
+			"qr_help"					: "Open the authentication app (ex: Authy, Google Authenticator) on your mobile device and scan the following QR Code with your camera.",
 
-			"secret"					: "Không thể quét mã QR?",
-			"secret_help"				: "Hãy thử chèn mã bí mật sau vào ứng dụng của bạn nếu bạn không thể quét Mã QR.",
+			"secret"					: "Can't scan the QR Code?",
+			"secret_help"				: "Try inserting the following secret code into your app if you can't scan the QR Code.",
 
-			"verify"					: "2. Nhập mã thông báo mới được tạo",
-			"verify_help"				: "Để xác nhận rằng bạn đã thiết lập mã đúng cách, vui lòng nhập mã thông báo gồm 6 chữ số từ ứng dụng dành cho thiết bị di động của bạn."
+			"verify"					: "2. Enter freshly generated token",
+			"verify_help"				: "To confirm that you setup your code properly, please enter the 6-digit token from your mobile app."
 		},
 
 		"info_message": {
-			"user_pending_email"		: "Một email xác nhận đã được gửi đến địa chỉ email mới. Đảm bảo kiểm tra và xác nhận nó qua email."
+			"user_pending_email"		: "An email confirmation was sent to the new email address. Make sure to check and confirm it via email."
 		},
 
 		"error_message": {
-			"invalid_current_password"	: "Mật khẩu hiện tại của bạn không hợp lệ!",
-			"short_password"			: "Mật khẩu của bạn quá ngắn, bạn phải có ít nhất 6 ký tự!",
-			"passwords_not_matching"	: "Mật khẩu bạn đã nhập không khớp",
-			"twofa_check"				: "Tmã thông báo mà bạn đã nhập không hợp lệ, vui lòng thử lại để thiết lập hệ thống xác thực hai yếu tố."
+			"invalid_current_password"	: "Your current password is not valid!",
+			"short_password"			: "Your password is too short, you must have at least 6 characters!",
+			"passwords_not_matching"	: "Your entered passwords do not match",
+			"twofa_check"				: "The token that you entered is not valid, please try again to setup the Two-factor authentication system."
 		},
 
 		"success_message": {
-			"account_updated"			: "Tài khoản của bạn đã được cập nhật!",
-			"subscription_canceled"     : "Đăng ký định kỳ của bạn đã bị hủy!"
+			"account_updated"			: "Your account was updated!",
+			"subscription_canceled"     : "Your recurring subscription was canceled!"
 		}
 	},
 
 	"account_delete": {
-		"title"							: "Xóa tài khoản",
-		"menu"							: "Xóa tài khoản",
-		"header"						: "Xóa tài khoản",
-		"subheader"						: "Bằng cách xóa tài khoản, tất cả dữ liệu được lưu trữ của bạn sẽ bị xóa. <br /> Không thể hoàn tác hành động này sau khi đã thực hiện xong.",
-		"current_password"				: "Mật khẩu hiện tại",
+		"title"							: "Delete account",
+		"menu"							: "Delete account",
+		"header"						: "Delete account",
+		"subheader"						: "By deleting the account, all of your stored data will be deleted. <br /> This action is irreversible once done.",
+		"current_password"				: "Current Password",
 
 		"error_message": {
-			"invalid_current_password"	: "Mật khẩu hiện tại của bạn không hợp lệ!"
+			"invalid_current_password"	: "Your current password is not valid!"
 		}
 	},
 
 	"domains": {
-		"title"							: "Tên miền",
-		"menu"							: "Tên miền",
-		"breadcrumb"					: "Tên miền",
-		"header"						: "Tên miền tùy chỉnh của bạn",
-		"subheader"						: "Tại đây, bạn có thể thêm miền tùy chỉnh của riêng mình để sử dụng với các trang Biolink của mình.",
+		"title"							: "Domains",
+		"menu"							: "Domains",
+		"breadcrumb"					: "Domains",
+		"header"						: "Your custom domains",
+		"subheader"						: "Here you can add your own custom domain to use with your biolink pages.",
 
 		"domains": {
-			"total"						: "Tổng số liên kết",
-			"clicks"					: "Tổng số lượt truy cập",
+			"total"						: "Total links",
+			"clicks"					: "Total pageviews",
 
-			"no_data"					: "Không có tên miền tùy chỉnh..",
-			"no_data_help"				: "Thêm mới ngay",
+			"no_data"					: "No custom domains..",
+			"no_data_help"				: "Add one now",
 
-			"is_enabled_pending"		: "Đang kích hoạt",
-			"is_enabled_active"			: "Kích hoạt"
+			"is_enabled_pending"		: "Pending activation",
+			"is_enabled_active"			: "Active"
 		},
 
 		"input": {
-			"host"						: "Tên miền hoặc tên miền phụ",
+			"host"						: "Domain or subdomain",
 			"host_placeholder"			: "domain.com",
-			"host_help"					: "Viết tên miền hoặc tên miền phụ mà bạn muốn các liên kết của mình có thể truy cập được.",
-			"custom_index_url"			: "tùy chỉnh chỉ mục URL",
-			"custom_index_url_help"		: "Chuyển hướng đến một url cụ thể khi khách truy cập vào chỉ mục của tên miền.",
+			"host_help"					: "Write the domain or subdomain you want your links to be accessible with.",
+			"custom_index_url"			: "Custom index url",
+			"custom_index_url_help"		: "Redirect to a specific url when visitors land on the index of the domain.",
 			"custom_index_url_placeholder": "https://domain.com/"
 		},
 
 		"error_message": {
-			"domains_limit"				: "Kế hoạch của bạn đã vượt quá số lượng tên miền tùy chỉnh tối đa."
+			"domains_limit"				: "Your plan exceeded the maximum amount of custom domains."
 		}
 	},
 
 	"domain_create_modal": {
-		"header"						: "Thêm tên miền tùy chỉnh",
-		"subheader"						: "Đảm bảo rằng tên miền hoặc tên miền phụ của bạn có bản ghi trỏ đến %s hoặc CNAME bản ghi trỏ đến %s.",
+		"header"						: "Add custom domain",
+		"subheader"						: "Make sure that your domain or subdomain has an A record pointing to %s or CNAME record pointing to %s.",
 
-		"success_message"				: "Tên miền mới hiện đã được tạo!",
+		"success_message"				: "The new domain is now created!",
 
 		"error_message": {
-			"domains_limit"				: "Kế hoạch của bạn đã vượt quá số lượng miền tùy chỉnh tối đa."
+			"domains_limit"				: "Your plan exceeded the maximum amount of custom domains."
 		}
 	},
 
 	"domain_update_modal": {
-		"header"						: "Cập nhật tên miền",
-		"subheader"						: "Cập nhật chi tiết tên miền của bạn.",
+		"header"						: "Update domain",
+		"subheader"						: "Update your domain's details.",
 
-		"success_message" 				: "Tên miền đã được cập nhật!"
+		"success_message" 				: "The domain was updated!"
 	},
 
 	"domain_delete_modal": {
-		"header"						: "Xóa tên miền",
-		"subheader"						: "Tất cả dữ liệu liên quan đến miền sẽ bị xóa hoàn toàn. Hành động này không thể được hoàn tác.",
+		"header"						: "Delete domain",
+		"subheader"						: "All data related to the domain will be completely deleted. This action cannot be undone.",
 
-		"success_message"				: "Xóa tên miền đã được thực hiện thành công!"
+		"success_message"				: "Domain deletion was performed successfully!"
 	},
 
 	"account_plan": {
-		"title"							: "Tài khoản kế hoạch",
-		"menu"							: "Kế hoạch",
-		"header"						: "Tài khoản kế hoạch",
+		"title"							: "Account Plan",
+		"menu"							: "Plan",
+		"header"						: "Account Plan",
 
 		"plan":{
-			"renews"					: "Gói sẽ gia hạn vào %s",
-			"expires"					: "Kế hoạch kết thúc vào %s"
+			"renews"					: "Plan will renew on %s",
+			"expires"					: "Plan ends on %s"
 		},
 
 		"cancel": {
-			"header"					: "Hủy đăng ký",
-			"subheader"					: "Bằng cách hủy đăng ký của bạn, bạn sẽ không phải trả thêm bất kỳ khoản thanh toán nào nữa. <br /> Bạn sẽ vẫn có quyền truy cập vào các tính năng mà bạn đã trả tiền cho đến ngày hết hạn.",
-			"cancel"					: "Hủy đăng ký",
-			"confirm_message"			: "Bạn có chắc chắn muốn hủy lần thanh toán tiếp theo của gói đăng ký của mình không?"
+			"header"					: "Cancel Subscription",
+			"subheader"					: "By cancelling your subscription no further payments will be made. <br /> You will still have access to your features that you paid for until the expiration date.",
+			"cancel"					: "Cancel Subscription",
+			"confirm_message"			: "Are you sure you want to cancel the next billing of your subscription?"
 		},
 
 		"code": {
-			"header"					: "Quy đổi",
-			"subheader"					: "Đổi mã sẽ hủy gói hiện tại của bạn và tự động chuyển bạn sang gói mới được liên kết với mã.",
+			"header"					: "Redeem",
+			"subheader"					: "Redeeming a code will cancel your current plan and automatically switch you to the new plan associated with the code.",
 
-			"input"						: "Mã đổi thưởng",
-			"submit"					: "Kích hoạt"
+			"input"						: "Redemption code",
+			"submit"					: "Activate"
 		},
 
 		"success_message": {
-			"code_redeemed"				: "Mã đã được đổi thành công!",
-			"code"						: "Mã đổi được có sẵn: %s cho %s ngày."
+			"code_redeemed"				: "Code has been successfully redeemed!",
+			"code"						: "Redeemable code is available: %s for %s days."
 		},
 
 		"error_message": {
-			"code_invalid"				: "Mã đổi được này không hợp lệ..",
-			"code_used"					: "Bạn đã sử dụng mã có thể đổi được này.."
+			"code_invalid"				: "This redeemable code is invalid..",
+			"code_used"					: "You have already used this redeemable code.."
 		}
 	},
 
 	"account_payments": {
-		"title"							: "Tài khoả thanh toán",
-		"menu"							: "Thanh toán",
-		"header"						: "Tài khoả thanh toán",
-		"subheader"						: "Tất cả các khoản thanh toán được thực hiện trên tài khoản của bạn.",
+		"title"							: "Account Payments",
+		"menu"							: "Payments",
+		"header"						: "Account Payments",
+		"subheader"						: "All the payments made on your account.",
 
 		"payments": {
-			"customer"					: "khách hàng",
-			"type"						: "Loại",
-			"date"						: "Ngày",
-			"name"						: "Tên ",
-			"total_amount"				: "Tổng số tiền",
-			"plan_id"					: "kế hoạch",
-			"invoice"					: "Hóa đơn",
-			"status_pending"			: "Chờ phê duyệt",
-			"status_approved"			: "Đã phê duyệt",
+			"customer"					: "Customer",
+			"type"						: "Type",
+			"date"						: "Date",
+			"name"						: "Full Name",
+			"total_amount"				: "Total Amount",
+			"plan_id"					: "Plan",
+			"invoice"					: "Invoice",
+			"status_pending"			: "Pending approval",
+			"status_approved"			: "Approved",
 
-			"no_data"					: "Không có khoản thanh toán nào bây giờ.."
+			"no_data"					: "No payments for now.."
 		},
 
 		"filters": {
-			"processor"						: "Xử lý",
+			"processor"						: "Processor",
 			"processor_paypal"				: "PayPal",
 			"processor_stripe"				: "Stripe",
-			"processor_offline_payment"		: "Thanh toán offline",
+			"processor_offline_payment"		: "Offline payment",
 
-			"type"							: "Loại",
-			"type_one_time"					: "Một lần",
-			"type_recurring"				: "Định kỳ",
+			"type"							: "Type",
+			"type_one_time"					: "One time",
+			"type_recurring"				: "Recurring",
 
-			"frequency"						: "Tần suất",
-			"frequency_monthly"				: "Hàng tháng",
-			"frequency_annual"				: "Hàng năm",
-			"frequency_lifetime"			: "Trọn đời",
+			"frequency"						: "Frequency",
+			"frequency_monthly"				: "Monthly",
+			"frequency_annual"				: "Annual",
+			"frequency_lifetime"			: "Lifetime",
 
-			"order_by_total_amount"			: "Tổng tiền"
+			"order_by_total_amount"			: "Total amount"
 		}
 	},
 
 	"account_logs": {
-		"title"							: "Nhật ký tài khoản",
-		"menu"							: "Nhật ký",
-		"header"						: "Nhật ký tài khoản",
-		"subheader"						: "Danh sách các hoạt động được ghi lại quan trọng nhất của bạn.",
+		"title"							: "Account Logs",
+		"menu"							: "Logs",
+		"header"						: "Account Logs",
+		"subheader"						: "A list of your most important recorded activity.",
 
 		"logs": {
-			"type"						: "Loại",
-			"ip"						: "Địa chỉ IP",
-			"date"						: "Ngày",
+			"type"						: "Type",
+			"ip"						: "IP",
+			"date"						: "Date",
 
-			"no_data"					: "Tài khoản của bạn không có nhật ký nào được ghi lại.."
+			"no_data"					: "Your account has no recorded logs.."
 		}
 	},
 
 	"invoice": {
-		"print"							: "In",
-		"invoice"						: "Hóa đơn",
-		"invoice_nr"					: "Hòa đơn Nr",
-		"invoice_date"					: "Ngày",
+		"print"							: "Print",
+		"invoice"						: "INVOICE",
+		"invoice_nr"					: "Invoice Nr",
+		"invoice_date"					: "Date",
 
-		"vendor"						: "Nhà cung cấp",
-		"customer"						: "khách hàng",
+		"vendor"						: "Vendor",
+		"customer"						: "Customer",
 
-		"name"							: "Tên",
-		"address"						: "Địa chỉ",
-		"city"							: "Thành phố",
-		"county"						: "Quận",
+		"name"							: "Name",
+		"address"						: "Address",
+		"city"							: "City",
+		"county"						: "County",
 		"zip"							: "ZIP",
-		"country"						: "Quốc gia",
+		"country"						: "Country",
 		"email"							: "Email",
-		"phone"							: "Số điện thoại",
+		"phone"							: "Phone",
 		"tax_id"						: "Tax ID",
 
 		"table": {
-			"item"						: "Sản phẩm",
-			"amount"					: "Giá tiền",
+			"item"						: "Item",
+			"amount"					: "Amount",
 
-			"plan"					: "Kế hoạch %s ",
-			"frequency"					: "%s truy cập.",
-			"frequency_monthly"			: "30 ngày",
-			"frequency_annual"			: "1 năm",
-			"frequency_lifetime"		: "trọn đời",
+			"plan"					: "%s Plan",
+			"frequency"					: "%s access.",
+			"frequency_monthly"			: "30 days",
+			"frequency_annual"			: "1 year",
+			"frequency_lifetime"		: "Lifetime",
 
-			"code"						: "Giảm giá",
-			"code_help"					: "Mã đã được sử dụng: %s",
+			"code"						: "Discount",
+			"code_help"					: "Code used: %s",
 
-			"total"						: "Tổng",
-			"paid_via"					: "Đã thanh toán thông qua %s"
+			"total"						: "Total",
+			"paid_via"					: "Paid via %s"
 		}
 	},
 
 	"reset_password": {
-		"title"							: "Đặt lại mật khẩu",
-		"header"						: "Đặt lại mật khẩu",
+		"title"							: "Reset Password",
+		"header"						: "Reset Password",
 
 		"form": {
-			"new_password"				: "Mật khẩu mới",
-			"repeat_password"			: "Nhập lại mật khẩu"
+			"new_password"				: "New Password",
+			"repeat_password"			: "Repeat Password"
 		},
 
 		"error_message": {
-			"short_password"			: "Mật khẩu của bạn quá ngắn, bạn phải có ít nhất 6 ký tự!",
-			"passwords_not_matching"	: "Mật khẩu bạn đã nhập không khớp"
+			"short_password"			: "Your password is too short, you must have at least 6 characters!",
+			"passwords_not_matching"	: "Your entered passwords do not match"
 		},
 
 		"success_message": {
-			"password_updated"			: "Mật khẩu của bạn đã được cập nhật!"
+			"password_updated"			: "Your password has been updated!"
 		}
 	},
 
 	"login": {
-		"menu"							: "Đăng nhập",
-		"title"							: "Đăng nhập",
-		"header"						: "Đăng nhập",
+		"menu"							: "Login",
+		"title"							: "Login",
+		"header"						: "Login",
 
 		"form": {
-			"email" 					: "Địa chỉ Email",
+			"email" 					: "Email Address",
 			"email_placeholder"			: "email@domain.com",
-			"password"					: "Mật khẩu",
-			"password_placeholder"		: "Mật khẩu",
-			"twofa_token"				: "Mã xác thực hai yếu tố",
-			"twofa_token_placeholder"	: "Mã xác thực từ ứng dụng",
-			"remember_me"				: "Giữ tôi luôn đăng nhập",
-			"login"						: "Đăng nhập"
+			"password"					: "Password",
+			"password_placeholder"		: "Password",
+			"twofa_token"				: "Two-factor token",
+			"twofa_token_placeholder"	: "Token code from the authenticator app",
+			"remember_me"				: "Remember me",
+			"login"						: "Login"
 		},
 
 		"display": {
-			"register"					: "Không có tài khoản? %s",
-			"register_help"				: "Đăng ký",
+			"register"					: "Don't have an account? %s",
+			"register_help"				: "Register",
 
-			"lost_password"				: "Quên mật khẩu",
-			"resend_activation"			: "Gửi lại mã kích hoạt",
-			"facebook"					: "%s Đăng nhập bằng Facebook"
+			"lost_password"				: "Lost Password",
+			"resend_activation"			: "Resend Activation",
+			"facebook"					: "%s Facebook Login"
 		},
 
 		"info_message": {
-			"twofa_token"				: "Sử dụng ứng dụng xác thực để lấy mã xác thực hai yếu tố.",
-			"logged_in"					: "Chào mừng trở lại!"
+			"twofa_token"				: "Use your authenticator app to get the token for the Two-factor authentication.",
+			"logged_in"					: "Welcome back!"
 		},
 
 		"error_message": {
-			"twofa_token"				: "Mã xác thực hai yếu tố của bạn không hợp lệ !",
-			"wrong_login_credentials"	: "kết hợp đăng nhập của bạn không hợp lệ!",
-			"user_not_active"			: "Tài khoản của bạn không được xác nhận hoặc bị cấm!",
-			"email_is_null"				: "Tài khoản facebook của bạn không có email được liên kết với nó, chúng tôi không thể hoàn tất quá trình đăng nhập Facebook."
+			"twofa_token"				: "Your two-factor authentication token is invalid!",
+			"wrong_login_credentials"	: "Your login combination is not invalid!",
+			"user_not_active"			: "Your account is not confirmed or banned!",
+			"email_is_null"				: "Your facebook account doesn't have an email associated with it, we could not finish the Facebook login process."
 		}
 	},
 
 	"lost_password": {
-		"title"							: "Quên mật khẩu",
-		"header"						: "Quên mật khẩu",
-		"return"						: "Trở về trang đăng nhập",
+		"title"							: "Lost Password",
+		"header"						: "Lost Password",
+		"return"						: "Return to Login",
 
 		"form": {
 			"email" 					: "Email",
@@ -813,14 +813,14 @@
 		},
 
 		"notice_message": {
-			"success"					: "Chúng tôi đã gửi một email đến địa chỉ tài khoản đó nếu tài khoản được đăng ký với địa chỉ đó!"
+			"success"					: "We sent an email to that accounts address if an account is registered with it!"
 		}
 	},
 
 	"resend_activation": {
-		"title"							: "Gửi lại kích hoạt",
-		"header"						: "Gửi lại email kich hoạt",
-		"return"						: "Trở lại trang đăng nhập",
+		"title"							: "Resend Activation",
+		"header"						: "Resend Activation Email",
+		"return"						: "Return to Login",
 
 		"form": {
 			"email" 					: "Email",
@@ -828,85 +828,85 @@
 		},
 
 		"notice_message": {
-			"success"					: "Chúng tôi đã gửi một email đến địa chỉ tài khoản đó nếu  tài khoản được đăng ký với địa chỉ đó!"
+			"success"					: "We sent an email to that accounts address if an account is registered with it!"
 		}
 	},
 
 	"activate_user": {
-		"user_activation"				: "Tài khoản của bạn đã được xác nhận và hiện đang hoạt động!",
-		"user_pending_email"			: "Địa chỉ email mới của bạn đã được xác nhận!"
+		"user_activation"				: "Your account has been confirmed and is now active!",
+		"user_pending_email"			: "Your new email address has been confirmed!"
 	},
 
 	"register": {
-		"title"							: "Đăng ký",
-		"menu"							: "Đăng ký",
-		"header"						: "Đăng ký",
-		"login"							: "Đã có tài khoản?",
+		"title"							: "Register",
+		"menu"							: "Register",
+		"header"						: "Register",
+		"login"							: "Already have an account?",
 
 		"form": {
-			"name"						: "Tên",
-			"name_placeholder"			: "Tên đầy đủ",
+			"name"						: "Name",
+			"name_placeholder"			: "Your full name",
 			"email"						: "Email",
 			"email_placeholder"			: "email@domain.com",
-			"password"					: "Mật khẩu",
-			"password_placeholder"		: "Mật khẩu",
-			"repeat_password"			: "Nhập lại mật khẩu",
-			"accept"					: "Tôi xác nhận rằng tôi đã đọc và hiểu %s và %s của trang web.",
-			"register"					: "Đăng ký"
+			"password"					: "Password",
+			"password_placeholder"		: "Password",
+			"repeat_password"			: "Repeat Password",
+			"accept"					: "I confirm that I have read and understood the %s and %s of the site.",
+			"register"					: "Register"
 		},
 
 		"error_message": {
-			"username_length"			: "Tên người dùng phải từ 3 đến 32 ký tự!",
-			"name_length"				: "Tên phải từ 3 đến 32 ký tự!",
-			"email_exists"				: "Chúng tôi xin lỗi, nhưng email đó đã được sử dụng!",
-			"invalid_email"				: "Bạn đã nhập một email không hợp lệ!",
-			"short_password"			: "Mật khẩu của bạn quá ngắn, bạn phải có ít nhất 6 ký tự!",
-			"passwords_not_matching"	: "Mật khẩu của bạn quá ngắn, bạn phải có ít nhất 6 ký tự",
-			"username_characters"		: "Bạn chỉ có thể sử dụng các chữ cái, chữ số và các ký tự '.', '_' Cho tên người dùng của mình"
+			"username_length"			: "Username must be between 3 and 32 characters!",
+			"name_length"				: "Name must be between 3 and 32 characters!",
+			"email_exists"				: "We're sorry, but that email is already used!",
+			"invalid_email"				: "You entered an invalid email!",
+			"short_password"			: "Your password is too short, you must have at least 6 characters!",
+			"passwords_not_matching"	: "Your entered passwords do not match",
+			"username_characters"		: "You can only use letters, digits and the '.', '_' characters for your username field"
 		},
 
 
 		"success_message": {
-			"registration"				: "Tài khoản của bạn đã được tạo, hãy kiểm tra email của bạn để biết liên kết kích hoạt! (Hãy nhớ kiểm tra cả thư mục spam của bạn)",
-			"login"						: "Chào mừng bạn đến với nền tảng của chúng tôi, chúng tôi rất biết ơn khi có bạn ở đây!"
+			"registration"				: "Your account has been created, check your email for the activation link! ( Make sure to check your spam folder too )",
+			"login"						: "Welcome to our platform, we are grateful to have you here!"
 		}
 	},
 
 	"dashboard": {
-		"title"							: "Trang chính",
-		"menu"							: "Trang chính",
-		"breadcrumb"					: "Trang chính",
+		"title"							: "Dashboard",
+		"menu"							: "Dashboard",
+		"breadcrumb"					: "Dashboard",
 
 		"header": {
-			"clicks"					: "Tổng số lần clicks",
-			"links"						: "Tổng số liên kết",
-			"projects"					: "Tổng số dự án",
-			"domains"					: "Tổng số tên miền"
+			"clicks"					: "Total clicks",
+			"links"						: "Total links",
+			"projects"					: "Total projects",
+			"domains"					: "Total domains"
 		}
 	},
 
 	"links": {
-		"breadcrumb"						: "Liên kết",
-		"title"								: "Liên kết",
-		"menu"								: "Liên kết",
-		"header"							: "Liên kết",
+		"breadcrumb"						: "Links",
+		"title"								: "Links",
+		"menu"								: "Links",
+		"header"							: "Links",
 
-		"create"							: "Tạo liên kết",
+		"create"							: "Create link",
 
-		"total"								: "Tổng số liên kết",
-		"clicks"							: "Tổng số lượt xem",
-		"type"								: "Loại",
-		"date"								: "Ra mắt vào",
-		"is_enabled"						: "Trạng thái",
-		"is_enabled_tooltip"				: "Chuyển trạng thái",
+		"total"								: "Total links",
+		"clicks"							: "Total pageviews",
+		"type"								: "Type",
+		"date"								: "Launched on",
+		"is_enabled"						: "Status",
+		"is_enabled_tooltip"				: "Thay đổi trạng thái",
 
-		"no_data"							: "No links created yet..",
+		"no_data"							: "Chưa có liên kết nào được tạo..",
 
 		"filters": {
-			"project_id"					: "Project",
-			"type"							: "Type",
-			"type_biolink"					: "Biolink pages",
-			"type_link"						: "Shortened URLs",
+			"project_id"					: "Dự án",
+			"type"							: "Thể loại",
+			"type_biolink"					: "Trang Biolink",
+			"type_link"						: "Rút gọn URLs",
 			"search_by_url"					: "Short URL",
 			"order_by_url"					: "Short URL",
 			"order_by_clicks"				: "Clicks"
@@ -914,16 +914,16 @@
 	},
 
 	"projects": {
-		"title"								: "Projects",
-		"menu"								: "Projects",
-		"breadcrumb"						: "Projects",
-		"header"							: "Projects",
-		"subheader"							: "The easiest way to categorize and sort your links.",
-		"create"							: "Create project",
+		"title"								: "Dự án",
+		"menu"								: "Dự án",
+		"breadcrumb"						: "Dự án",
+		"header"							: "Dự án",
+		"subheader"							: "Cách dễ nhất để phân loại và sắp xếp các liên kết của bạn.",
+		"create"							: "Tạo dự án",
 
-		"name"								: "Name",
+		"name"								: "Tên dự án",
 
-		"no_data"							: "No existing projects..",
+		"no_data"							: "Dự án không tồn tại..",
 
 		"filters": {
 			"search_by_name"				: "Name",
@@ -931,7 +931,7 @@
 		},
 
 		"error_message": {
-			"projects_limit"				: "You have exceeded the limit of projects on your plan."
+			"projects_limit"				: "Bạn đã vượt quá giới hạn dự án trong kế hoạch của mình."
 		}
 	},
 
@@ -942,72 +942,72 @@
 
 		"header": {
 			"header"						: "%s",
-			"subheader"						: "Your link is %s",
-			"links"							: "Back to Links List",
+			"subheader"						: "Những liên kết của bạn là %s",
+			"links"							: "Trở lại danh sách liên kết",
 
-			"settings_tab"					: "Settings",
+			"settings_tab"					: "Cài đặt",
 			"links_tab"						: "Links",
-			"biolinks_settings"				: "Back to BioLink"
+			"biolinks_settings"				: "Trở lại BioLink"
 		},
 
 		"settings": {
-			"header"						: "Settings",
-			"link"							: "Settings",
-			"breadcrumb"					: "Settings",
+			"header"						: "Cài đặt",
+			"link"							: "Cài đặt",
+			"breadcrumb"					: "Cài đặt",
 
-			"location_url"					: "Long URL",
+			"location_url"					: "Địa chỉ truy cập đầy đủ",
 			"location_url_placeholder"		: "https://domain.com/demo/long-url-demo",
-			"url"							: "Short URL",
-			"url_placeholder"				: "your-custom-alias",
-			"url_help"						: "Leave empty for a random generated one.",
-			"project_id"					: "Project",
-			"project_id_null"				: "None",
-			"schedule"						: "Schedule",
-			"schedule_help"					: "Set an exact date when the link will work.",
-			"start_date"					: "Start Date",
-			"end_date"						: "End Date",
-			"image"							: "Avatar",
+			"url"							: "Địa chỉ truy cập rút gọn",
+			"url_placeholder"				: "Tùy chỉnh bí danh của bạn",
+			"url_help"						: "Hãy để trống, một đối tượng sẽ được tạo ngẫu nhiên.",
+			"project_id"					: "Tên dự án",
+			"project_id_null"				: "Không có",
+			"schedule"						: "Kế hoạch làm việc",
+			"schedule_help"					: "Chọn một ngày chính xác khi liên kết bắt đầu hoạt động.",
+			"start_date"					: "Ngày bắt đầu",
+			"end_date"						: "Ngày kết thúc",
+			"image"							: "Ảnh đại diện",
 			"image_help"					: "",
-			"image_status"					: "Your image was selected",
-			"image_remove"					: "Remove image",
-			"title"							: "Title",
-			"description"					: "Description",
+			"image_status"					: "Ảnh của bạn đã được chọn",
+			"image_remove"					: "Chọn ảnh khác",
+			"title"							: "Tiêu đề",
+			"description"					: "Mô tả",
             "text_color"                    : "Text Color",
 			"socials_color"					: "Buttons Color",
-			"background_type"				: "Background",
-			"background_type_preset"		: "Preset",
-			"background_type_color"			: "Custom Color",
-			"background_type_gradient"		: "Custom Gradient",
-			"background_type_gradient_color_one": "Color One",
-			"background_type_gradient_color_two": "Color Two",
-			"background_type_image"			: "Custom Image",
-			"display_verified"				: "Display Verified Checkmark",
-			"branding_header"				: "Branding",
-			"display_branding"				: "Display Branding",
+			"background_type"				: "Nền",
+			"background_type_preset"		: "Thiết lập",
+			"background_type_color"			: "Tùy chỉnh màu sắc",
+			"background_type_gradient"		: "Tùy chỉnh phối màu Gradient",
+			"background_type_gradient_color_one": "Màu 1",
+			"background_type_gradient_color_two": "Màu 2",
+			"background_type_image"			: "Tùy chỉnh ảnh",
+			"display_verified"				: "Hiển thị đánh dấu đã xác thực",
+			"branding_header"				: "Thương Hiệu",
+			"display_branding"				: "Hiển thị thương hiệu",
 			"branding": {
-				"name"						: "Branding Name",
-				"name_help"					: "Leave empty to have the default site branding.",
+				"name"						: "Tên thương hiệu",
+				"name_help"					: "Để trống nếu bạn muốn có thương hiệu trang web mặc định",
 				"url"						: "Branding URL"
 			},
 			"analytics_header"				: "Analytics",
 			"google_analytics"				: "Google Analytics ID",
-			"google_analytics_help"			: "Enable tracking with Google Analytics by adding your analytics ID (ex: UA-22222222-33).",
+			"google_analytics_help"			: "Bật theo giỏi Google Analytics bằng cách nhập Analytics ID của bạn (ex: UA-22222222-33).",
 			"facebook_pixel"				: "Facebook Pixel",
-			"facebook_pixel_help"			: "Enable the Facebook Pixel by adding your only the Facebook Pixel ID.",
+			"facebook_pixel_help"			: "Bật Facebook Pixel bằng cách thêm ID Pixel Facebook duy nhất của bạn.",
 			"seo_header"					: "Seo",
-			"seo_block"						: "Block Search Engine Indexing",
-			"seo_block_help"				: "Block your biolink page from being indexed by search engines.",
-			"seo_title"						: "Page title",
-			"seo_title_help"				: "Completely change the page title to a custom one that you are setting here.",
+			"seo_block"						: "Chặn công cụ tìm kiếm",
+			"seo_block_help"				: "Chặn trang Biolink của bạn khỏi các công cụ tìm kiếm.",
+			"seo_title"						: "Tiêu đề trang",
+			"seo_title_help"				: "Thay đổi hoàn toàn tiêu đề trang thành tiêu đề tùy chỉnh mà bạn đang đặt ở đây.",
 			"seo_meta_description"			: "Meta description",
-			"seo_meta_description_help"		: "Set a custom meta description for your biolink page to rank better in search engines.",
+			"seo_meta_description_help"		: "Tùy chỉnh các mô tả để trang Biolink của bạn có xép hạng cao hơn đối với các công cụ tìm kiếm .",
 			"seo_image"						: "OpenGraph Image URL",
-			"seo_image_help"				: "Set a custom OpenGraph/Twitter Image for your biolink page to display a link preview.",
-			"utm_header"					: "UTM Parameters",
+			"seo_image_help"				: "Tùy chỉnh hình ảnh OpenGraph/Twitter cho trang Biolink của bạn dể hiển thị bản xem trước liên kết.",
+			"utm_header"					: "Thông só UTM",
 			"utm_medium"					: "Medium",
-			"utm_campaign"					: "The campaign will be automatically set for each link in particular based on the name of the link.",
+			"utm_campaign"					: "Chiến dịch sẽ được tự động đặt cho từng liên kết cụ thể dựa trên tên của liên kết.",
 			"utm_source"					: "Source",
-			"socials_header"				: "Socials",
+			"socials_header"				: "Xã Hội",
 			"socials": {
 				"email": {
 					"name"					: "Email",
@@ -1016,7 +1016,7 @@
 				},
 
 				"tel": {
-					"name"					: "Telephone",
+					"name"					: "Số điện thoại",
 					"placeholder"			: "+00000000000",
 					"icon"					: "fa fa-phone-square"
 				},
@@ -1093,77 +1093,77 @@
 					"icon"					: "fab fa-pinterest"
 				}
 			},
-			"fonts_header"					: "Fonts",
-			"font"							: "Font",
-			"protection_header"				: "Protection",
-			"password"						: "Password",
-			"password_help"					: "Require users to enter a password before accessing the link.",
-			"sensitive_content"				: "Sensitive content warning",
-			"sensitive_content_help"		: "Require users to confirm that they want to access your link and letting them know that the link might be sensitive.",
-			"leap_link"						: "Leap Link URL",
-			"leap_link_help"				: "Fully redirect all users that access the biolink page to this URL. Leave empty to disable the feature."
+			"fonts_header"					: "Kiểu chữ",
+			"font"							: "Kiểu chữ",
+			"protection_header"				: "Bảo mật",
+			"password"						: "Mật khẩu",
+			"password_help"					: "Yêu cầu người dùng nhập mật khẩu trước khi truy cập liên kết.",
+			"sensitive_content"				: "Cảnh báo nội dung nhạy cảm",
+			"sensitive_content_help"		: "Yêu cầu người dùng xác nhận rằng họ muốn truy cập liên kết của bạn và cho họ biết rằng liên kết có thể nhạy cảm.",
+			"leap_link"						: "Leap link   URL",
+			"leap_link_help"				: "Chuyển hướng hoàn toàn tất cả người dùng truy cập trang biolink đến địa chỉ này. Để trống để tắt tính năng này.",
 		},
 
 		"links": {
-			"link_sort"						: "Touch and drag to reorder.",
-			"no_data"						: "No links for now..",
-			"settings"						: "Settings",
-			"is_enabled_tooltip"			: "Change status",
-			"duplicate"						: "Duplicate"
+			"link_sort"						: "Chạm và kéo để sắp xếp lại.",
+			"no_data"						: "Hiện tại không có liên kết..",
+			"settings"						: "cài đặt",
+			"is_enabled_tooltip"			: "Thay đổi trạng thái",
+			"duplicate"						: "Bản sao",
 		},
 
 		"statistics": {
-			"breadcrumb"					: "Statistics",
-			"header"						: "Statistics",
-			"link"							: "Statistics",
+			"breadcrumb"					: "Số liệu thống kê",
+			"header"						: "Số liệu thống kê",
+			"link"							: "Số liệu thống kê",
 
-			"pageviews"						: "Pageviews",
-			"visitors"						: "Visitors",
+			"pageviews"						: "Số lần xem trang",
+			"visitors"						: "Khách hàng",
 
-			"no_data"						: "There are no statistics available for this date range",
-			"no_data_help"					: "Wait until you get some traffic and come back.",
+			"no_data"						: "Không có thống kê nào có sẵn cho phạm vi ngày này.",
+			"no_data_help"					: "Chờ cho đến khi bạn nhận được một số lượng truy cập và quay trở lại.",
 
-			"overview"						: "Overview",
+			"overview"						: "Tổng quát.",
 			"overview_help"					: "",
-			"view_more"						: "View more",
+			"view_more"						: "Xem thêm",
 
-			"country"						: "Countries",
-			"country_help"					: "Discover the countries that your visitors are from.",
-			"country_unknown"				: "Unknown",
+			"country"						: "Quốc gia",
+			"country_help"					: "Khám phá quốc gia quốc gia mà khách hàng các bạn đến từ đó.",
+			"country_unknown"				: "không xác định",
 
-			"city"							: "Cities of %s",
-			"city_help"						: "Discover the cities that your visitors are from.",
-			"city_unknown"					: "Unknown",
+			"city"							: "Các thành phố của %s",
+			"city_help"						: "Khám phá các thành phố mà khách truy cập của bạn đến từ đó.",
+			"city_unknown"					: "không xác định",
 
-			"os"							: "Operating Systems",
-			"os_help"						: "Discover the operating systems that your visitors are using.",
-			"os_unknown"					: "Unknown",
+			"os"							: "Các hệ điều hành",
+			"os_help"						: "Khám phá hệ điều hành mà khách truy cập của bạn đang sử dụng.",
+			"os_unknown"					: "không xác định",
 
-			"browser"						: "Browsers",
-			"browser_help"					: "Discover the browsers that your visitors are using.",
-			"browser_unknown"				: "Unknown",
+			"browser"						: "Các trình duyệt",
+			"browser_help"					: "Khám phá các trình duyệt mà khách truy cập của bạn đang sử dụng.",
+			"browser_unknown"				: "không xác định",
 
-			"language"						: "Languages",
-			"language_help"					: "Discover the browser languages that your visitors are having.",
-			"language_unknown"				: "Unknown",
+			"language"						: "Ngôn ngữ",
+			"language_help"					: "Khám phá các ngôn ngữ trình duyệt mà khách truy cập của bạn đang sử dụng.",
+			"language_unknown"				: "không xác định",
 
-			"device"						: "Devices",
-			"device_help"					: "Discover the devices that your visitors are using.",
-			"device_unknown"				: "Unknown",
-			"device_desktop"				: "Desktop",
-			"device_tablet"					: "Tablet",
-			"device_mobile"					: "Mobile",
+			"device"						: "Thiết bị",
+			"device_help"					: "Khám phá các thiết bị mà khách truy cập của bạn đang sử dụng.",
+			"device_unknown"				: "không xác định",
+			"device_desktop"				: "Máy tính bàn",
+			"device_tablet"					: "Máy tính bảng",
+			"device_mobile"					: "Di động",
 
-			"referrer_host"					: "Referrers",
-			"referrer_path"					: "%s referrer paths",
-			"referrer_help"					: "Discover where your traffic is coming from.",
-			"referrer_direct"				: "Direct",
+			"referrer_host"					: "Người giới thiệu",
+			"referrer_path"					: "%s đường dẫn liên kết giới thiệu",
+			"referrer_help"					: "Khám phá lưu lượng truy cập của bạn đến từ đâu.",
+			"referrer_direct"				: "Trực tiếp",
 			"referrer_qr"					: "QR Code",
 
 			"utms"							: "UTMs",
-			"utms_help"						: "Discover how your UTM marketing campaigns are performing.",
-			"utm_medium"					: "%s utm mediums",
-			"utm_campaign"					: "%s / %s utm sources"
+			"utms_help"						: "Khám phá cách các chiến dịch tiếp thị UTM của bạn đang hoạt động.",
+			"utm_medium"					: "%s phương tiện utm",
+			"utm_campaign"					: "%s / %s nguồn utm"
 		},
 
 		"qr": {
@@ -1171,41 +1171,41 @@
 		},
 
 		"password": {
-			"title"							: "Password protected",
-			"header"						: "Password protected",
-			"subheader"						: "You must input the correct password to continue. Your password will be remembered for 30 days.",
+			"title"							: "Mật khẩu được bảo vệ",
+			"header"						: "Mật khẩu được bảo vệ",
+			"subheader"						: "Bạn phải nhập đúng mật khẩu để tiếp tục. Mật khẩu của bạn sẽ được ghi nhớ trong 30 ngày",
 
-			"input"							: "Password",
+			"input"							: "Mật khẩu",
 
-			"error_message"					: "The password is incorrect!"
+			"error_message"					: "Mật khẩu không đúng!"
 		},
 
 		"sensitive_content": {
-			"title"							: "Sensitive content",
-			"header"						: "Sensitive content",
-			"subheader"						: "This link may contain sensitive content which some viewers may find offensive or disturbing.",
+			"title"							: "Nội dung nhạy cảm",
+			"header"						: "SNội dung nhạy cảm",
+			"subheader"						: "Liên kết này có thể chứa nội dung nhạy cảm mà một số người xem có thể thấy khó chịu hoặc khó chịu.",
 
-			"button"						: "Accept"
+			"button"						: "Chấp nhận"
 		},
 
 		"success_message": {
-			"settings_updated"				: "Update successful!"
+			"settings_updated"				: "Cập nhật thành công!"
 		},
 
 		"error_message": {
-			"blacklisted_url"				: "This custom url is not available for usage!",
-			"blacklisted_domain"			: "This domain has been blacklisted, you can't use it!",
-			"blacklisted_keyword"			: "This custom url is blacklisted!",
-			"blacklisted_location_url"		: "This url has been blacklisted, you can't use it!",
-			"invalid_location_url"			: "Your entered link has an invalid format! Maybe you're missing the https:// from the url?"
+			"blacklisted_url"				: "Url tùy chỉnh này không có sẵn để sử dụng!",
+			"blacklisted_domain"			: "Miền này đã bị đưa vào danh sách đen, bạn không thể sử dụng nó!",
+			"blacklisted_keyword"			: "Url tùy chỉnh này được đưa vào danh sách đen!",
+			"blacklisted_location_url"		: "Url này đã bị đưa vào danh sách đen, bạn không thể sử dụng nó!",
+			"invalid_location_url"			: "Liên kết đã nhập của bạn có định dạng không hợp lệ! Có thể bạn đang thiếu https://",
 		},
 
 		"biolink": {
-			"name"                          : "Biolink page",
+			"name"                          : "Trang Biolink",
 			"icon"							: "fa fa-fw fa-hashtag",
 			"color"							: "#383eb2",
 
-			"image_alt"						: "Avatar",
+			"image_alt"						: "Ảnh đại diện",
 
 			"link": {
 				"name"                          : "Link",
@@ -1322,40 +1322,40 @@
 			},
 
 			"mail": {
-				"name"                          : "Mail signup",
+				"name"                          : "Mail đăng ký",
 				"icon"							: "fa fa-envelope",
 				"color"							: "#c91685",
 
 				"email_placeholder_default"		: "email@domain.com",
-				"button_text_default"			: "Sign up",
-				"success_text_default"			: "Thank you for signing up!"
+				"button_text_default"			: "Đăng ký",
+				"success_text_default"			: "Cảm ơn bạn đã đăng ký!"
 			}
 		},
 
 		"link": {
-			"name"                          : "Shortened URL",
+			"name"                          : "URL thu g",
 			"icon"							: "fa-link",
 			"color"							: "#38b2ac"
 		}
 	},
 
 	"index": {
-		"title"							: "Multiple Bio Links for Instagram",
+		"title"							: "Nhiều BioLink cho Instagram",
 		"meta_description"				: "",
 		"meta_keywords"					: "",
-		"header"						: "Do everything with just one link.",
-		"subheader"						: "Create shortened URLs, unique biolink pages and get proper analytics of your visitors.",
-		"sign_up"						: "Get Started️",
-		"breadcrumb"					: "Home",
-		"is_custom_domain"				: "Custom domain",
+		"header"						: "Làm mọi thứ chỉ với một liên kết.",
+		"subheader"						: "Tạo các URL rút gọn, các trang BioLink duy nhất và nhận phân tích thích hợp về khách truy cập của bạn.",
+		"sign_up"						: "Bắt đầu️",
+		"breadcrumb"					: "Trang chủ",
+		"is_custom_domain"				: "Tên miền tùy chọn",
 
 		"presentation1": {
-			"header"					: "Unlimited projects",
-			"subheader"					: "Easily manage all your links with the use of Projects."
+			"header"					: "Dự án không giới hạn",
+			"subheader"					: "Dễ dàng quản lý tất cả các liên kết của bạn với việc sử dụng Dự án.",
 		},
 
 		"presentation2": {
-			"header"					: "Biolink pages",
+			"header"					: "Trang Biolink",
 			"subheader"					: "Create your own & unique biolink page, a ton of easy to use settings and implementations."
 		},
 
